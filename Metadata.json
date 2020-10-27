@@ -1,0 +1,20 @@
+{
+    "Author": "Ryan Boud",
+    "ContentSize": 1497,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-pack-websites-offline-installation-package-creator/master/Get-WAPWebsitesOfflinePackage.ps1",
+    "DownloadCount": 754,
+    "Id": "Azure-Pack-Websites-ce1a8a82",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 568,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-5-27T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script uses a local installation of WAP Websites to create an Offline installation package. This can be particularly useful if you need to re-install WAP Websites or add it to an installation at a later date.You will need to run this as the same user that has WAP Websites in",
+    "Title": "Azure Pack Websites Offline Installation Package Creator",
+    "UpdatedDate": "2015-5-27T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-pack-websites-offline-installation-package-creator",
+    "UserTags": "Windows Azure Pack, Azure Websites"
+}
